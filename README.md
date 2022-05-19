@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python, C#, SQL
 
-- 💞️ I’m looking to collaborate, or contribute my minor knowledge on all kinf of project that can improve my programming skills. 
+- 💞️ I’m looking to collaborate, or contribute my minor knowledge on all kind of project that can improve my programming skills. 
       Currently involved more toward robotics, automation, process control.
       
       You can even get me to train your AI. All I need is explosure toward real life project, programming problems that can
